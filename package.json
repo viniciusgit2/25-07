@@ -26,7 +26,6 @@
     "next": "^13.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "smoke": "^3.1.1",
     "typescript": "^4.9.4"
   },
   "devDependencies": {
@@ -34,12 +33,14 @@
     "chai": "^4.3.7",
     "css-loader": "^6.7.3",
     "html-webpack-plugin": "^5.5.0",
-    "husky": "^8.0.0",
+    "husky": "^8.0.3",
     "mini-css-extract-plugin": "^2.7.2",
     "mocha": "^10.2.0",
+    "precommit": "^1.2.2",
     "prettier": "^2.8.2",
     "sinon": "^15.0.1",
     "sinon-stub-promise": "^4.0.0",
+    "smoke": "^3.1.1",
     "style-loader": "^3.3.1",
     "stylus": "^0.59.0",
     "stylus-loader": "^7.1.0",
